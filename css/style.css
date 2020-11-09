@@ -1,0 +1,28 @@
+header {
+  margin: 0 auto;
+  width: 900px;
+  position: relative;
+}
+h1 {
+  text-align: center
+}
+ul {
+  position: absolute;
+  top: 40px;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+}
+
+main > div {
+  margin: 0 auto;
+  width: 900px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+img {
+width: 300px;
+margin: 10px;
+}
